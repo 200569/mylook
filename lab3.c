@@ -40,6 +40,8 @@ int main(int argc, char *argv[]) {
                     }
             }
           exit(lpierwszych);
+
+          // cos tam
         }
         /* Proces macierzysty */
         //printf("Macierzysty = %d \n",getpid());
